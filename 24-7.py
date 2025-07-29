@@ -9,7 +9,7 @@ def display_banner():
     print(r"""
 
                                                        
-                              Subhan
+                              Enjoy 24/7 
     """)
 
 def generate_random_string(length=100):
